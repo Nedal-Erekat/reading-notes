@@ -39,6 +39,7 @@ CSS selectors are used to select the content you want to style. Selectors are th
 5. CSS Group Selector
 #### Look at the following figure 
 ![selector](http://farhad-hossain.com/farhad/public/assets/blogsImages/1562857201.png)
+
 # JavaScript
 
 ####  learning to read and write JavaScript. You will also learn how to give a web browser instructions you want it to follow.
