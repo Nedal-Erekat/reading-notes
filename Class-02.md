@@ -39,18 +39,17 @@ CSS selectors are used to select the content you want to style. Selectors are th
 5. CSS Group Selector
 #### Look at the following figure 
 ![selector](http://farhad-hossain.com/farhad/public/assets/blogsImages/1562857201.png)
- 
- # JavaScript
+# JavaScript
 
- ####  learning to read and write JavaScript. You will also learn how to give a web browser instructions you want it to follow.
+####  learning to read and write JavaScript. You will also learn how to give a web browser instructions you want it to follow.
 
- ### *STATEMENTS* : A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
+### *STATEMENTS* : A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. 
 
  
 ### WHAT IS A VARIABLE? 
 #### A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables. 
 #### But to use a variable you should first ***Declar the variable*** as following:
-# var Quantity ;
+> # var Quantity ;
 ### Variable kayword followed by variable
 
 ### DATA TYPES 
