@@ -5,7 +5,7 @@
 No | Object | links
 -- | ------ | -----
 1 | class-01 | [class-01](https://nedal-erekat.github.io/reading-notes/class-01)
-2 | class-02 | [class-02](https://nedal-erekat.github.io/reading-notes/class-02)
+2 | class-02 | [class-02](https://nedal-erekat.github.io/reading-notes/Class-02)
 3 | ..... | ....
 4 | ..... | ....
 
