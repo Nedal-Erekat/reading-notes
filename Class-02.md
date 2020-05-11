@@ -7,13 +7,14 @@
 2. Semantic 
 
 #### Let's look at some example of text.
+
 Elements | Name | describtions
 -------- | ---- | ------------
 <'head'> | Headings | has 6 levels h1-h6 starting from main to subheading
-<'P'> | Paragraphs |
-<'b'> | Bold |
-<'i'> | italic |
-<'br/'> | Line breaks |
+<'P'> | Paragraphs | . .
+<'b'> | Bold | . . 
+<'i'> | italic | . .
+<'br/'> | Line breaks | . .
 
 #### and there are another...
 
@@ -58,14 +59,14 @@ CSS selectors are used to select the content you want to style. Selectors are th
 
 ### CREATING AN ARRAY 
 #### You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array). see the foloeing figuer 
- ![array](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/5-2.png)
+![array](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/01/5-2.png)
 
- ### moreover, you can use mathmatical operators and relations operators in JS, see the following figurs.
- ![operators](https://www.miltonmarketing.com/wp-content/uploads/2018/04/jsarithimage029.jpg)
- ![relations](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
+### moreover, you can use mathmatical operators and relations operators in JS, see the following figurs.
+![operators](https://www.miltonmarketing.com/wp-content/uploads/2018/04/jsarithimage029.jpg)
+![relations](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
 
- # Decisions and Loops 
- ####  create and control the flow of data in your scripts to handle different situations.
+# Decisions and Loops 
+####  create and control the flow of data in your scripts to handle different situations.
 
- # IF...else stetmants checks  acondition. 
+# IF...else stetmants checks  acondition. 
 ![if](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png)
