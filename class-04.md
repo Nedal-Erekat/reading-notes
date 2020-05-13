@@ -34,6 +34,7 @@
         > functionKeyword functionName(){the code..}
         > var functionName=functionKeyWord(){code..}
         > some times you need to declear the functionn with values or vareable so you can put parameter inside the paranthases (x,y)
+        
 ### 2. Calling the function:
         > you can call the function by functionName(); where ever you want it 
         > some times you need to call the function with value so you can send valus to fuanction inside the paranthasis
