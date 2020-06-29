@@ -35,10 +35,11 @@
 - justify-content
 ![q](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
 #### This defines the alignment along the main axis. It helps distribute extra free space leftover when either all the flex items on a line are inflexible, or are flexible but have reached their maximum size. It also exerts some control over the alignment of items when they overflow the line.
-
->.container {
->  justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
->  }
+```
+.container {
+  justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right ... + safe | unsafe;
+ }
+ ```
 * flex-start (default): items are packed toward the start of the flex-direction.
 * flex-end: items are packed toward the end of the flex-direction.
 * start: items are packed toward the start of the writing-mode direction.
