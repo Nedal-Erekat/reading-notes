@@ -12,6 +12,8 @@ No | Object | links
 3 | Flexbox and Templating | [class-03](https://nedal-erekat.github.io/reading-notes/R3-FlexboxandTemplating)
 4 | CSS GRID | [class-04](https://nedal-erekat.github.io/reading-notes/R4-CSSGRID)
 5 | Heroku Deployment | [class-05](https://nedal-erekat.github.io/reading-notes/R5-Heroku Deployment)
+6 | NodeJS | [class-05](https://nedal-erekat.github.io/reading-notes/R6-Node)
+
 
 
 ## Class 201:
