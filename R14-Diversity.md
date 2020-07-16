@@ -8,3 +8,14 @@
 #### The few women who do make it into the field are far less likely to stay than their male counterparts. The Center for Talent Innovation, a research think tank, found that US women are 45% more likely than men to leave careers in technology. The research revealed that women often feel isolated due to a lack of female role models and the sense of being excluded from “buddy networks” among men. Once you add in the fact that only 38% of US women get their ideas endorsed by leadership (compared to 44% of men), you soon end up with the scenario in which almost a third of women say they want to quit within the first year.
 
 ##### Though there are isolated examples of both vintage and contemporary computer advertising aimed at women, it is clear that the advertising narrative around women and technology needs to be more inclusive if the gender gap is going to close. Until that happens, as Ames argues, advertising will continue to drive “a subtle message to girls and women that it’s not a place where they belong.”
+
+- Diverse teams are smarter and more creative 
+
+- Diverse companies perform better
+
+- Companies are losing out on great talent 
+
+- Diverse companies can better serve a diverse user base 
+
+- It’s the right thing to do 
+
