@@ -30,6 +30,7 @@
 > “Everyone in this country should learn to program a computer, because it teaches you to think.” — Steve Jobs
 
 > “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.”
+
 ### So, what should you do when you encounter a new problem?Here are the steps:
 1. Understand
 2. Plan
