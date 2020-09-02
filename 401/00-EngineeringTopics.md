@@ -1,5 +1,5 @@
 # Problems solving
-[problem](https://asq.org/-/media/Images/Learn-About-Quality/problem-solving.png?h=243&w=278&la=en)
+![problem](https://asq.org/-/media/Images/Learn-About-Quality/problem-solving.png?h=243&w=278&la=en)
 
 ## How to Solve Programming Problems
 - You really want to make sure you take enough time to understand the problem completely before attempting to solve it.
