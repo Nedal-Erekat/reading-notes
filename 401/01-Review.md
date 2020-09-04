@@ -1,5 +1,6 @@
-Readings: Node Ecosystem, TDD, CI/CD
+## Readings: Node Ecosystem, TDD, CI/CD
 
+![js](https://hackernoon.com/hn-images/1*bxEkHw1xewxOFjmGunb-Cw.png)
 
 1. Array map() Method
     > The map() method creates a new array with the results of calling a function for every array element. calls the provided function once for each element in an array, in order. and this method does not change the original array.
@@ -39,6 +40,8 @@ async function cities (name){
 
 5. Are all callback functions considered to be Asynchronous? 
 #### Simply taking a callback doesn't make a function asynchronous. There are many examples of functions that take a function argument but are not asynchronous, for example, Array's forEach.For a function to be asynchronous it needs to perform an asynchronous operation. 
+
+![nodeAndnpm](https://www.andreafiori.net/img/posts/nodejs-npm.gif)
 
 ## Node.js
 Node.js is an open source server environment and Node.js uses asynchronous programming!
