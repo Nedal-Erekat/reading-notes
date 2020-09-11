@@ -21,7 +21,7 @@
 
 ## Postgres vs MongoDB
 - Postgres is a `relational database` management system and it has another name postgreSQL.
-- MongoDB is a cross-platform d`ocument-oriented database` program. Classified as a `NoSQL database program`, MongoDB uses JSON-like documents with optional schemas.
+- MongoDB is a cross-platform `document-oriented database` program. Classified as a `NoSQL database program`, MongoDB uses JSON-like documents with optional schemas.
 
 ## What is Mongoose and why do we need it?
 - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB
@@ -30,7 +30,7 @@
 ![mongo](https://cdn-media-1.freecodecamp.org/images/0*b5piDNW1dqlkJWKe.)
 
 
-## list of Diffenition:
+## list of definition:
 - database: A database is an organized collection of data, generally stored and accessed electronically from a computer system. 
 - data model: organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
 - CRUD:create, read, update, and delete are the four basic functions of persistent storage. 
