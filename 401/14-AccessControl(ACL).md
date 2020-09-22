@@ -1,7 +1,8 @@
 # Access Control (ACL)
 ![](https://redislabs.com/wp-content/uploads/2020/06/Adobe-ACL-image.jpg)
- is an approach to restricting system access to authorized users.
+is an approach to restricting system access to authorized users.
 > user working on a public network, while in a coffee shop.  The user’s credentials were compromised, resulting in the compromise of the company’s entire infrastructure.
+
 ## Role-based access control (RBAC) approach
 assigning system access to users based on their role within an organization.
 - With the proper implementation of RBAC, the assignment of access rights becomes systematic and repeatable. Further, it is much easier to audit user rights, and to correct any issues identified.
