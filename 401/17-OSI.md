@@ -15,6 +15,13 @@ Although the modern Internet doesn’t strictly follow the OSI model (it more cl
 6. The Presentation Layer
 7. The Application Layer
 
+## TCP (Transmission Control Protocol)
+  
+TCP (Transmission Control Protocol) is a standard that defines how to establish and maintain a network conversation through which application programs can exchange data.
+
+## What TCP is used for
+TCP is used for organizing data in a way that ensures the secure transmission between the server and client
+
 # Net
 The net module provides an asynchronous network API for creating stream-based TCP or IPC servers (net.createServer()) and clients (net.createConnection()).
 
